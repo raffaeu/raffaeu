@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud and React projects**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://raffaeu.medium.com/)
 
 - 💬 Ask me about **React, Azure, AWS**
 
